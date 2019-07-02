@@ -1,0 +1,25 @@
+﻿  McCluskey.cpp
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(133): warning C4018: '<': signed/unsigned mismatch
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(165): warning C4018: '<': signed/unsigned mismatch
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(206): warning C4018: '<': signed/unsigned mismatch
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(222): warning C4018: '<': signed/unsigned mismatch
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(242): warning C4018: '<': signed/unsigned mismatch
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(244): warning C4018: '<': signed/unsigned mismatch
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(274): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(288): warning C4018: '<': signed/unsigned mismatch
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(291): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\anderw\source\repos\quine-mccluskey\quine-mccluskey\mccluskey.cpp(301): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+  Quine-McCluskey.vcxproj -> C:\Users\Anderw\source\repos\Quine-McCluskey\Debug\Quine-McCluskey.exe
